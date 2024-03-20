@@ -9,4 +9,7 @@
   • CSS
   • JavaScript
 </p>
-<img src="https://github.com/camilabfar/convert-money/assets/mockup (1).png">
+<img src="Convert Money/assets/mockup (1).png">
+<img src="Convert Money/assets/mockup (2).png">
+<img src="Convert Money/assets/mockup (3).png">
+<img src="Convert Money/assets/mockup (4).png">
